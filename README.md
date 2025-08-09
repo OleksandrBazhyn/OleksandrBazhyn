@@ -1,21 +1,22 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-🎓 Студент комп'ютерних наук (4 курс) у Київському національному університеті ім. Тараса Шевченка.  
-📍  Живу та працюю в Києві.  
-💻 Розробник з досвідом у Node.js, JavaScript/TypeScript, React, .NET, Python та C++.  
+🎓 Computer Science student (4th year) at Taras Shevchenko National University of Kyiv.   
+📍  Living and working in Kyiv.  
+💻 Developer experienced in Node.js, JavaScript/TypeScript, React, .NET, Python, and C++.  
 
 ---
 
-## 🛠 Технологічний стек
+## 🛠 Tech Stack
 
-### Основне
+### Main
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6c757d?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
+![Selenium](https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=7bc769)
 
-### Також працював з
+### Also worked with
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,10 +26,10 @@
 ![NoSQL](https://img.shields.io/badge/MongoDB-388e3c?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-## 🏆 Досягнення на GitHub
+## 🏆 GitHub Achievements
 ![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=darkhub&no-frame=true&row=1&margin-w=15)
 
-- 📈 **Більше X комітів у 2025 році**
+- 📈 **More than X commits in 2025 year**
 - 🌍 Участь у кількох **Open Source** проєктах  
 - 📦 Створення та підтримка навчальних і комерційних проєктів  
 - 🛠 Розробка у різних мовах: Node.js, C#, Python, C++  
