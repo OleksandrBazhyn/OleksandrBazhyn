@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-🎓 Computer Science student (4th year) at Taras Shevchenko National University of Kyiv.   
-🌻 Living and working in Kyiv.  
-💻 Developer experienced in Node.js, JavaScript/TypeScript, React, .NET, Python, and C++.  
+🎓 Computer Science student (4th year) at Taras Shevchenko National University of Kyiv.
+🌻 Living and working in Kyiv.
+💻 Node.js developer specializing in web development and business process automation. 
 
 
 ## About me 🧑🏻‍💼
@@ -12,26 +12,6 @@ Alongside my client support duties, I proactively initiate and independently imp
 I am pursuing a Bachelor's degree in Computer Science, studying a wide range of mathematical and technical topics, while collaborating with many talented young professionals.
 
 I love cooking at home. Since childhood, I have often ridden a bike and gone on cycling trips. I also really enjoy poetry and fishing. In my free time, apart from fishing, coding, and studying, I like watching movies and anime.
-
-
-## 🛠 Tech Stack
-
-### Main
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6c757d?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
-![Selenium](https://img.shields.io/badge/Selenium-20232A?style=for-the-badge&logo=selenium&logoColor=7bc769)
-
-### Also worked with
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NoSQL](https://img.shields.io/badge/MongoDB-388e3c?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
