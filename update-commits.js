@@ -50,7 +50,7 @@ async function updateReadme() {
     console.log('No matching commits line found.');
   }
 
-  const reposRegex = /\*\*[^*]+ public repositories\*\*/;
+  const reposRegex = /\*\*\d+\*\* public repositories/;
   const reposReplacement = `**${repos} public repositories**`;
 
   if (reposRegex.test(content)) {
