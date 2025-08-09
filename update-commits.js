@@ -33,16 +33,30 @@ async function getReposCount() {
   return data.public_repos || 0;
 }
 
+async function getPRCount() {
+  const url = `https://api.github.com/search/issues?q=type:pr+author:${username}+created:${year}-01-01..${year}-12-31&per_page=1`;
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    console.error('GitHub API error (pull requests):', response.status);
+    return 0;
+  }
+
+  const data = await response.json();
+  console.log(`Pull Requests found: ${data.total_count}`);
+  return data.total_count || 0;
+}
+
 async function updateReadme() {
   const commits = await getCommitsCount();
   const repos = await getReposCount();
+  const prs = await getPRCount();
 
   const readmePath = './README.md';
   let content = fs.readFileSync(readmePath, 'utf-8');
 
   const commitsRegex = /\*\*More than [^*]+ commits in \d{4}\*\*/;
   const commitsReplacement = `**More than ${commits} commits in ${year}**`;
-
   if (commitsRegex.test(content)) {
     content = content.replace(commitsRegex, commitsReplacement);
     console.log(`Updated commits count: ${commitsReplacement}`);
@@ -52,12 +66,21 @@ async function updateReadme() {
 
   const reposRegex = /\*\*\d+\*\* public repositories/;
   const reposReplacement = `**${repos} public repositories**`;
-
   if (reposRegex.test(content)) {
     content = content.replace(reposRegex, reposReplacement);
     console.log(`Updated repos count: ${reposReplacement}`);
   } else {
     console.log('No matching repos line found.');
+  }
+
+  const prsRegex = /\*\*More than [^*]+ pull requests in \d{4}\*\*/;
+  const prsReplacement = `**More than ${prs} pull requests in ${year}**`;
+  if (prsRegex.test(content)) {
+    content = content.replace(prsRegex, prsReplacement);
+    console.log(`Updated PR count: ${prsReplacement}`);
+  } else {
+    content += `\n**More than ${prs} pull requests in ${year}**\n`;
+    console.log('Added new pull requests line.');
   }
 
   fs.writeFileSync(readmePath, content, 'utf-8');
