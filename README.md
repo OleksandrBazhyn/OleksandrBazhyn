@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:142b5e,100:2c5364&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 🎓 Студент комп'ютерних наук (4 курс) у Київському національному університеті ім. Тараса Шевченка.  
 📍  Живу та працюю в Києві.  
@@ -22,7 +22,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
+![NoSQL](https://img.shields.io/badge/MongoDB-388e3c?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 ## 🏆 Досягнення на GitHub
@@ -54,4 +54,4 @@
 
 ---
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=100&section=footer)
