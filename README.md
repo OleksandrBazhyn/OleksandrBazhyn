@@ -58,5 +58,3 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1YyaFqy_AfAfaWo1eucgCCZCkzpzcAanE/view?usp=sharing)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=100&section=footer)
-
-**More than 61 pull requests in 2025**
