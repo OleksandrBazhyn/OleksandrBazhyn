@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 🎓 Computer Science student (4th year) at Taras Shevchenko National University of Kyiv.   
-📍  Living and working in Kyiv.  
+🌻 Living and working in Kyiv.  
 💻 Developer experienced in Node.js, JavaScript/TypeScript, React, .NET, Python, and C++.  
 
 ---
@@ -41,6 +41,8 @@
 ## 📊 GitHub Статистика
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBazhyn&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=OleksandrBazhyn&theme=tokyonight)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=OleksandrBazhyn&theme=tokyonight&layout=compact&count=5)
 
 ---
 
