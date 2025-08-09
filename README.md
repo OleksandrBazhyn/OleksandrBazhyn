@@ -7,7 +7,7 @@
 
 ## About me 🧑🏻‍💼
 I am currently working as a Technical Support Manager, providing consultations for the most widely used commercial reporting software in Ukraine.
-Alongside my client support duties, I proactively initiate and implement automation of various business processes within my company.
+Alongside my client support duties, I am a member of the business process automation team and work as a developer, proactively designing and implementing automation solutions within my company.
 
 I am pursuing a Bachelor's degree in Computer Science, studying a wide range of mathematical and technical topics, while collaborating with many talented young professionals.
 
