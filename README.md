@@ -38,20 +38,18 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBazhyn&layout=compact&theme=tokyonight)
-![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=OleksandrBazhyn&theme=tokyonight)
-![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=OleksandrBazhyn&theme=tokyonight&layout=compact&count=5)
 
 ---
 
-## 📈 Граф активності
+## 📈 Activity Graph
 [![Oleksandr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksandrBazhyn&bg_color=0f2027&color=00ffea&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📬 Контакти
+## 📬 Contacts
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/oleksandr_bazhyn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandrbazhyn/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgwjew_/)
