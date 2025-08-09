@@ -1,0 +1,24 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Pull latest README template
+        run: |
+          echo "Automatic update README..."
+      
+      - name: Commit changes
+        run: |
+          git config --global user.name "Oleksandr Bazhyn"
+          git config --global user.email "olexandrbazhyn@gmail.com"
+          git add README.md
+          git commit -m "🔄 Automatic update README" || echo "No changes to commit"
+          git push
