@@ -47,10 +47,6 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBazhyn&layout=compact&theme=tokyonight)
 
-
-## 📈 Activity Graph
-[![Oleksandr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksandrBazhyn&bg_color=0f2027&color=00ffea&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
 
 ## 📬 Contacts
