@@ -29,6 +29,7 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/MongoDB-388e3c?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ---
 
 ## 🏆 GitHub Achievements
@@ -41,13 +42,11 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 - 📦 Created and maintained educational and commercial projects  
 - 🛠 Development in various languages: Node.js, C#, Python, C++  
 
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBazhyn&layout=compact&theme=tokyonight)
 
----
 
 ## 📈 Activity Graph
 [![Oleksandr's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OleksandrBazhyn&bg_color=0f2027&color=00ffea&line=00ffea&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
