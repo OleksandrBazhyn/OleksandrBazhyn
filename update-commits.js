@@ -15,6 +15,7 @@ async function getCommitsCount() {
   }
 
   const data = await response.json();
+  console.log(`Commits found: ${data.total_count}`);
   return data.total_count || 0;
 }
 
@@ -32,6 +33,7 @@ async function updateReadme() {
     console.log(`README.md updated: ${replacement}`);
   } else {
     console.log('No matching line found for update.');
+    console.log('README content snippet:', content.slice(0, 200));
   }
 }
 
