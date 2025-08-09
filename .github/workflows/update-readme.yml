@@ -31,3 +31,5 @@ jobs:
           git add README.md
           git diff --cached --quiet || git commit -m "🔄 Automatic commit counter update"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
