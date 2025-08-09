@@ -1,5 +1,5 @@
-import fs from 'fs';
-import fetch from 'node-fetch';
+const fs = require('fs');
+const fetch = require('node-fetch');
 
 const username = 'OleksandrBazhyn';
 const year = new Date().getFullYear();
@@ -23,7 +23,6 @@ async function updateReadme() {
   const readmePath = './README.md';
   let content = fs.readFileSync(readmePath, 'utf-8');
 
-  // Replace the line **More than X commits in 2025**
   const regex = /\*\*More than \d+ commits in \d{4}\*\*/;
   const replacement = `**More than ${commits} commits in ${year}**`;
 
