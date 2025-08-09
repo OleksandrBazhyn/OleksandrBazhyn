@@ -79,8 +79,7 @@ async function updateReadme() {
     content = content.replace(prsRegex, prsReplacement);
     console.log(`Updated PR count: ${prsReplacement}`);
   } else {
-    content += `\n**More than ${prs} pull requests in ${year}**\n`;
-    console.log('Added new pull requests line.');
+    console.log('No matching repos line found.');
   }
 
   fs.writeFileSync(readmePath, content, 'utf-8');
