@@ -29,7 +29,6 @@ I love cooking at home. Since childhood, I have often ridden a bike and gone on 
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleksandrBazhyn&layout=compact&theme=tokyonight)
 
 ---
 
