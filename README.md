@@ -38,8 +38,8 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 )
 
 - 🗃️ Created and maintained **47 public repositories**
-- 📝 **More than 383 commits in 2025**
-- 🔃 **More than 1 pull requests in 2025**
+- 📝 **More than 387 commits in 2025**
+- 🔃 **More than 61 pull requests in 2025**
 - 🚀 Initiated and led business process automation projects
 - 💼 Created and maintained educational and commercial projects  
 - 🛠 Development in various languages: Node.js, C#, Python, C++  
