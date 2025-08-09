@@ -27,9 +27,11 @@
 ---
 
 ## 🏆 GitHub Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=darkhub&no-frame=true&row=1&margin-w=15)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15
+)
 
 - 📈 **More than 361 commits in 2025**
+- 🔥 Created and maintained **1** public repositories
 - 🚀 Initiated and led business process automation projects
 - 📦 Created and maintained educational and commercial projects  
 - 🛠 Development in various languages: Node.js, C#, Python, C++  
