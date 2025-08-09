@@ -6,12 +6,12 @@
 
 
 ## About me 🧑🏻‍💼
-I am currently working as a Technical Support Manager, providing consultations for the most widely used commercial reporting software in Ukraine.  
+I am currently working as a Technical Support Manager, providing consultations for the most widely used commercial reporting software in Ukraine.
 Alongside my client support duties, I proactively initiate and independently implement automation of various business processes within my company.
 
-I am pursuing a Bachelor's degree in Computer Science, studying a wide range of mathematical and technical topics, and collaborating with many talented young professionals.
+I am pursuing a Bachelor's degree in Computer Science, studying a wide range of mathematical and technical topics, while collaborating with many talented young professionals.
 
-I love cooking at home. Since childhood, I have often ridden and traveled by bicycle. I really enjoy poetry and fishing. In my free time, besides fishing, coding, and studying, I watch movies or anime.
+I love cooking at home. Since childhood, I have often ridden a bike and gone on cycling trips. I also really enjoy poetry and fishing. In my free time, apart from fishing, coding, and studying, I like watching movies and anime.
 
 
 ## 🛠 Tech Stack
