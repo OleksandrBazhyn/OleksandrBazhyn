@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 🎓 Студент комп'ютерних наук (4 курс) у Київському національному університеті ім. Тараса Шевченка.  
-📍 Живу та працюю в Києві.  
+📍  Живу та працюю в Києві.  
 💻 Розробник з досвідом у Node.js, JavaScript/TypeScript, React, .NET, Python та C++.  
 
 ---
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=61DAFB)
 
 ### Також працював з
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
