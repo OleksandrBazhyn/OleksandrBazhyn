@@ -29,7 +29,7 @@
 ## 🏆 GitHub Achievements
 ![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=darkhub&no-frame=true&row=1&margin-w=15)
 
-- 📈 **More than X commits in 2025 year**
+- 📈 **More than X commits in 2025**
 - 🌍 Участь у кількох **Open Source** проєктах  
 - 📦 Створення та підтримка навчальних і комерційних проєктів  
 - 🛠 Розробка у різних мовах: Node.js, C#, Python, C++  
