@@ -37,10 +37,11 @@ I am pursuing a Bachelor's degree in Computer Science, studying a wide range of 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15
 )
 
-- 📈 **More than 385 commits in 2025**
-- 🔥 Created and maintained **47 public repositories**
+- 🗃️ Created and maintained **47 public repositories**
+- 📝 **More than 383 commits in 2025**
+- 🔃 **More than 1 pull requests in 2025**
 - 🚀 Initiated and led business process automation projects
-- 📦 Created and maintained educational and commercial projects  
+- 💼 Created and maintained educational and commercial projects  
 - 🛠 Development in various languages: Node.js, C#, Python, C++  
 
 
