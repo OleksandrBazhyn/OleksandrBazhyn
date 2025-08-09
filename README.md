@@ -30,7 +30,7 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15
 )
 
-- 📈 **More than 368 commits in 2025**
+- 📈 **More than 370 commits in 2025**
 - 🔥 Created and maintained **47 public repositories**
 - 🚀 Initiated and led business process automation projects
 - 📦 Created and maintained educational and commercial projects  
