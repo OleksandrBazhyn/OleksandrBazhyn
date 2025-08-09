@@ -3,22 +3,31 @@ name: Update README
 on:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Pull latest README template
-        run: |
-          echo "Automatic update README..."
-      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install node-fetch@2
+
+      - name: Update commits count in README
+        run: node ./update-commits.js
+
       - name: Commit changes
         run: |
           git config --global user.name "Oleksandr Bazhyn"
           git config --global user.email "olexandrbazhyn@gmail.com"
           git add README.md
-          git commit -m "🔄 Automatic update README" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "🔄 Automatic commit counter update"
           git push
