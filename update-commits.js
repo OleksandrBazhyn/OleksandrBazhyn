@@ -10,7 +10,7 @@ async function getCommitsCount() {
   const response = await fetch(url, { headers });
 
   if (!response.ok) {
-    console.error('GitHub API error:', response.status);
+    console.error('GitHub API error (commits):', response.status);
     return 0;
   }
 
@@ -19,22 +19,49 @@ async function getCommitsCount() {
   return data.total_count || 0;
 }
 
+async function getReposCount() {
+  const url = `https://api.github.com/users/${username}`;
+  const response = await fetch(url);
+
+  if (!response.ok) {
+    console.error('GitHub API error (repos):', response.status);
+    return 0;
+  }
+
+  const data = await response.json();
+  console.log(`Public repos: ${data.public_repos}`);
+  return data.public_repos || 0;
+}
+
 async function updateReadme() {
   const commits = await getCommitsCount();
+  const repos = await getReposCount();
+
   const readmePath = './README.md';
   let content = fs.readFileSync(readmePath, 'utf-8');
 
-  const regex = /\*\*More than \d+ commits in \d{4}\*\*/;
-  const replacement = `**More than ${commits} commits in ${year}**`;
+  const commitsRegex = /\*\*More than [^*]+ commits in \d{4}\*\*/;
+  const commitsReplacement = `**More than ${commits} commits in ${year}**`;
 
-  if (regex.test(content)) {
-    content = content.replace(regex, replacement);
-    fs.writeFileSync(readmePath, content, 'utf-8');
-    console.log(`README.md updated: ${replacement}`);
+  if (commitsRegex.test(content)) {
+    content = content.replace(commitsRegex, commitsReplacement);
+    console.log(`Updated commits count: ${commitsReplacement}`);
   } else {
-    console.log('No matching line found for update.');
-    console.log('README content snippet:', content.slice(0, 200));
+    console.log('No matching commits line found.');
   }
+
+  const reposRegex = /\*\*[^*]+ public repositories\*\*/;
+  const reposReplacement = `**${repos} public repositories**`;
+
+  if (reposRegex.test(content)) {
+    content = content.replace(reposRegex, reposReplacement);
+    console.log(`Updated repos count: ${reposReplacement}`);
+  } else {
+    console.log('No matching repos line found.');
+  }
+
+  fs.writeFileSync(readmePath, content, 'utf-8');
+  console.log('README.md updated!');
 }
 
 updateReadme();
