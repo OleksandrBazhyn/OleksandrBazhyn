@@ -20,8 +20,8 @@ I love cooking at home. Since childhood, I have often ridden a bike and gone on 
 )
 
 - 🗃️ Created and maintained **47 public repositories**
-- 📝 **More than 103 commits in 2026**
-- 🔃 **More than 0 pull requests in 2026**
+- 📝 **More than 105 commits in 2026**
+- 🔃 **More than 2 pull requests in 2026**
 - 🚀 Initiated and led business process automation projects
 - 💼 Created and maintained educational and commercial projects  
 - 🛠 Development in various languages: Node.js, C#, Python, C++  
