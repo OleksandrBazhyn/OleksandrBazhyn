@@ -36,6 +36,6 @@ I love cooking at home. Since childhood, I have often ridden a bike and gone on 
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/oleksandr_bazhyn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandrbazhyn/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dgwjew_/)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1YyaFqy_AfAfaWo1eucgCCZCkzpzcAanE/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1mrPUOpR3iFJwsvc1nxjwsSuCRw31T4Id?usp=sharing)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=100&section=footer)
