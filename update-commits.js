@@ -55,7 +55,8 @@ async function updateReadme() {
   const readmePath = './README.md';
   let content = fs.readFileSync(readmePath, 'utf-8');
 
-  const commitsRegex = /\*\*More than [^*]+ commits in \d{4}\*\*/;
+  // Виправлені регулярні вирази
+  const commitsRegex = /\*\*More than \d+ commits in \d{4}\*\*/;
   const commitsReplacement = `**More than ${commits} commits in ${year}**`;
   if (commitsRegex.test(content)) {
     content = content.replace(commitsRegex, commitsReplacement);
@@ -64,7 +65,7 @@ async function updateReadme() {
     console.log('No matching commits line found.');
   }
 
-  const reposRegex = /\*\*\d+\*\* public repositories/;
+  const reposRegex = /\*\*\d+ public repositories\*\*/;
   const reposReplacement = `**${repos} public repositories**`;
   if (reposRegex.test(content)) {
     content = content.replace(reposRegex, reposReplacement);
@@ -73,13 +74,13 @@ async function updateReadme() {
     console.log('No matching repos line found.');
   }
 
-  const prsRegex = /\*\*More than [^*]+ pull requests in \d{4}\*\*/;
+  const prsRegex = /\*\*More than \d+ pull requests in \d{4}\*\*/;
   const prsReplacement = `**More than ${prs} pull requests in ${year}**`;
   if (prsRegex.test(content)) {
     content = content.replace(prsRegex, prsReplacement);
     console.log(`Updated PR count: ${prsReplacement}`);
   } else {
-    console.log('No matching repos line found.');
+    console.log('No matching PR line found.');
   }
 
   fs.writeFileSync(readmePath, content, 'utf-8');
