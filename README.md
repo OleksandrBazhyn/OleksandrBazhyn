@@ -1,34 +1,29 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=200&section=header&text=Hello%20I'm%20Oleksandr%20Bazhyn%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-🎓 Computer Science student (4th year) at Taras Shevchenko National University of Kyiv.  
-🌻 Living and working in Kyiv.  
-💻 Node.js developer specializing in web development and business process automation.   
-
+🎓 **BSc in Computer Science** (Taras Shevchenko National University of Kyiv) | 🎓 **Master's Student** at NaUKMA<br>
+🌻 Living and working in Kyiv, Ukraine<br>
+💻 **Software Developer** (Node.js, Python, C#) specializing in business process automation & web development<br>
 
 ## About me 🧑🏻‍💼
-I am currently working as a Technical Support Manager, providing consultations for the most widely used commercial reporting software in Ukraine.
-Alongside my client support duties, I am a member of the business process automation team and work as a developer, proactively designing and implementing automation solutions within my company.
+I am a developer focused on designing and implementing automation solutions for commercial software. Having recently completed my Bachelor's degree, I am currently advancing my technical expertise through a Master's program at the National University of Kyiv-Mohyla Academy.
 
-I am pursuing a Bachelor's degree in Computer Science, studying a wide range of mathematical and technical topics, while collaborating with many talented young professionals.
+I enjoy tackling complex technical and mathematical challenges, continuously working to optimize workflows and build efficient tools for business processes. 
 
-I love cooking at home. Since childhood, I have often ridden a bike and gone on cycling trips. I also really enjoy poetry and fishing. In my free time, apart from fishing, coding, and studying, I like watching movies and anime.
+When I'm not coding or studying, you can find me on long-distance cycling trips, cooking up new recipes at home, fishing, or relaxing with a good book.
 
 ---
 
 ## 🏆 GitHub Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15
-)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🗃️ Created and maintained **47 public repositories**
 - 📝 **More than 276 commits in 2026**
-- 🔃 **More than 0 pull requests in 2026**
 - 🚀 Initiated and led business process automation projects
-- 💼 Created and maintained educational and commercial projects  
-- 🛠 Development in various languages: Node.js, C#, Python, C++  
-
+- 💼 Built and maintained various educational and commercial projects
+- 🛠 Development in multiple languages: **Node.js, Python, C# (.NET), C++**
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OleksandrBazhyn&show_icons=true&theme=tokyonight&v=1)
 
 ---
 
