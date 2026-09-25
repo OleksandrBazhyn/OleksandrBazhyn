@@ -16,8 +16,8 @@ When I'm not coding or studying, you can find me on long-distance cycling trips,
 ## 🏆 GitHub Achievements
 [![Trophy](https://github-profile-trophy.vercel.app/?username=OleksandrBazhyn&theme=gruvbox&no-frame=true&row=1&margin-w=15&v=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🗃️ Created and maintained **0 public repositories**
-- 📝 **More than 292 commits in 2026**
+- 🗃️ Created and maintained **65 public repositories**
+- 📝 **More than 294 commits in 2026**
 - 🚀 Initiated and led business process automation projects
 - 💼 Built and maintained various educational and commercial projects
 - 🛠 Development in multiple languages: **Node.js, Python, C# (.NET), C++**
