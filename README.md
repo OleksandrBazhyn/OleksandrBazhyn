@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1b3b4b,100:3a6f8f&height=180&section=header&text=Oleksandr%20Bazhyn&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20and%20Automation%20Specialist&descAlignY=55&descSize=18)
 
-Backend developer from Kyiv, Ukraine 🇺🇦. I build internal services, integrations and automations — mostly with **TypeScript / Node.js**, **PostgreSQL** and **Docker**.
+Backend developer from Kyiv, Ukraine 🇺🇦
 
 ### What I've built
 - 🔎 **Client data aggregator** — a web service that pulls company data by EDRPOU code from a CRM, QES registries, a licensing portal, the VAT registry and payments; replaced a 5+ minute manual search across 4+ systems. Used daily by the whole team.
